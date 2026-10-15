@@ -1,5 +1,15 @@
 # Predicting Diabetes Disease Progression
 
+![Python](https://img.shields.io/badge/python-3.10+-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+
+**Summary:** Linear models predict diabetes disease progression about as well as a random forest, so the simpler model is the better choice here.
+
+**Key result:** All three models explain roughly 45% of the variance in progression (test R² between 0.45 and 0.46).
+
+**Run it:** `pip install scikit-learn pandas matplotlib` then `python analysis.py`
+
+---
+
 A beginner machine learning project comparing linear models and a random forest on a clinical regression problem.
 
 ## Question
