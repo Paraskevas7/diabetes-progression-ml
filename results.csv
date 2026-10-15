@@ -1,0 +1,4 @@
+Model,R2,MAE
+Linear regression,0.453,42.794
+Ridge regression,0.454,42.812
+Random forest,0.459,43.357
