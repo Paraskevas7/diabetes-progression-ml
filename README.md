@@ -1,6 +1,5 @@
 # Predicting Diabetes Disease Progression
 
-![Python](https://img.shields.io/badge/python-3.10+-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 
 **Summary:** Linear models predict diabetes disease progression about as well as a random forest, so the simpler model is the better choice here.
 
